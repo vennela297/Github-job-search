@@ -1,4 +1,10 @@
 To run the project after cloning , do npm i command inorder to fetch the node modules and dependencies present in the package.json file
+
+APP SCREENSHOTS
+
+1.Landing Page
+
+![WhatsApp Image 2021-04-04 at 12 25 04 PM](https://user-images.githubusercontent.com/72748396/113501233-36383c00-9541-11eb-80f2-6eaf3bea60ac.jpeg)
     
 
 # Getting Started with Create React App
