@@ -5,6 +5,9 @@ APP SCREENSHOTS
 1.Landing Page
 
 ![WhatsApp Image 2021-04-04 at 12 25 04 PM](https://user-images.githubusercontent.com/72748396/113501233-36383c00-9541-11eb-80f2-6eaf3bea60ac.jpeg)
+
+![WhatsApp Image 2021-04-04 at 12 25 08 PM](https://user-images.githubusercontent.com/72748396/113501284-87483000-9541-11eb-919a-c9f389de56c5.jpeg)
+
     
 
 # Getting Started with Create React App
