@@ -1,4 +1,4 @@
-To run the project after cloning , do <<npm i>> command inorder to fetch the node modules and dependencies present in the package.json file
+To run the project after cloning , do npm i command inorder to fetch the node modules and dependencies present in the package.json file
     
 
 # Getting Started with Create React App
