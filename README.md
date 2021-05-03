@@ -1,14 +1,5 @@
 To run the project after cloning , do npm i command inorder to fetch the node modules and dependencies present in the package.json file
 
-APP SCREENSHOTS
-
-1.Landing Page
-
-![WhatsApp Image 2021-04-04 at 6 30 04 PM](https://user-images.githubusercontent.com/72748396/113509643-5cc39a80-9574-11eb-9070-9863a0b0357f.jpeg)
-
-
-
-![WhatsApp Image 2021-04-04 at 6 30 27 PM (1)](https://user-images.githubusercontent.com/72748396/113510028-330b7300-9576-11eb-9fc9-330a634674f3.jpeg)
 
 
     
